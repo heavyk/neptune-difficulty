@@ -25,4 +25,5 @@ the whole effort here is a massive joke, because I want to pump up production to
 it's the most epic island measuring contest, and one the things that I think would be really cool is to find a way to make the islands infinititely expandable (something like a tool that can expand the island boundaries in the save file, allowing for even more docks -- growing outward, like mycellium).
 
 ### initial setup: [jan 2, 0001](/bnd-0001-01-02.save)
+### [more?]
 ### starter base: [apirl 1, 400](/bnd-0400-04-01.save)
