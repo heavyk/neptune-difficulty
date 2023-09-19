@@ -24,6 +24,6 @@ the whole effort here is a massive joke, because I want to pump up production to
   think about it: players will build these *massive* bases, to be able to offer out to others 80 microchips per minute!!!! then you have these other guys that are importing 8000 microchips per minute (from 100 noobs) and producing 8000 CP5(?), which costing lots and lots of power, servers, etc. it's like dividing by two to get to infinity: it takes an infinite amount of effort. (FINE, it's a joke to me, OK... I have a sense of humour).
 it's the most epic island measuring contest, and one the things that I think would be really cool is to find a way to make the islands infinititely expandable (something like a tool that can expand the island boundaries in the save file, allowing for even more docks -- growing outward, like mycellium).
 
-### initial setup: [jan 2, 0001](/bnd-0001-01-02.save)
+### initial setup: [jan 2, 0001](/bnd-0001-02-01.save)
 ### [more?]
-### starter base: [apirl 1, 400](/bnd-0400-04-01.save)
+### starter base: [apirl 1, 400](/bnd-0400-01-04.save)
